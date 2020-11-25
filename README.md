@@ -12,6 +12,7 @@ For clone video run
 ```
 node app.js YoutubeURL
 ```
-The script will create a unique folder for each video
+The script will create a unique folder for each video.
+Download the Thumbnail image and create an INFO file with Title and Description.
 
 #### Done
