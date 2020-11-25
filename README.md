@@ -2,7 +2,7 @@
 
 ### How to use
 
-FFMPEG shoude installed in system sinse video and audio dowload separetly to achive best quality.
+FFMPEG should be installed in the system since video and audio download separately to achieve the best quality.
 
 [Install ffmpeg](https://ffmpeg.org/) 
 ```
@@ -12,6 +12,6 @@ For clone video run
 ```
 node app.js YoutubeURL
 ```
-Script will create unique folder for each video
+The script will create a unique folder for each video
 
 #### Done
