@@ -1,15 +1,11 @@
 {
-  "name": "youtubeDownloaderJS",
+  "name": "YoutubeDownloaderJS",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "main": "index.js",
+  "repository": "https://github.com/slvDev/YoutubeDownloaderJS.git",
+  "author": "slvDev <slava.serbov@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "youtube-dl": "^3.0.2"
+    "youtube-dl-exec": "^3.0.10"
   }
 }
